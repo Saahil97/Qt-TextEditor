@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>ss/New.png</file>
+        <file>ss/Open.png</file>
+        <file>ss/Save.png</file>
+        <file>ss/Exit.png</file>
+    </qresource>
+</RCC>
