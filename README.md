@@ -12,7 +12,7 @@ After installing Qt Creator
  
 Just double click on the .pro file 
 
-## To fetch the .exe file 
+## To create the .exe file 
 
 Build and run the code on Qt Creator
 Then a seperate folder is created in the same directory with debug and release folders
