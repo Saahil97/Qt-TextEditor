@@ -1,4 +1,4 @@
-# Text Editor
+# TextEditor
 
 A Simple Text Editor created by QT Creator 4.3.1
 
